@@ -1,5 +1,8 @@
 # 💫 About Me:
-    Technology: Deeply interested in the field of Information Technology (IT).<br><br>    Networking & Systems: Passionate about systems and network architecture.<br><br>    Coding: Enjoy writing code and developing software solutions.<br><br>    Gaming: An avid video game player for relaxation and fun
+Technology: Deeply interested in the field of Information Technology (IT)
+Networking & Systems: Passionate about systems and network architecture
+Coding: Enjoy writing code and developing software solutions
+Gaming: An avid video game player for relaxation and fun
 
 
 ## 🌐 Socials:
